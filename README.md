@@ -5,3 +5,5 @@ Teck stack used:
 - React
 - Bootstrap
 - aws-sdk
+
+<img src="Screen_Shot.png">
